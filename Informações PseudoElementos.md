@@ -1,4 +1,4 @@
-<div style="background-color: yellow; border: solid 2px;">Pseudo Elementos:</div>
+<div style="background-color: yellow; border: solid 2px; padding-left: 10px;">Pseudo Elementos:</div>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 Identificamos por: <aside style="background-color: yellow; border:solid 1px; width: 230px; height: 30px; padding-left: 10px;"><strong style="letter-spacing:8px;">::palavra-chave</strong></aside>
 
-<div style="letter-spacing:2px; border: solid 8px; ">**a) ::firt-letter (seleciona a primeira letra da primeira linha
+<div style="letter-spacing:2px; border: solid 8px; padding: 20px;">**a) ::firt-letter (seleciona a primeira letra da primeira linha
 
 color, background, margin, padding, border, font e propriedades de texto
 
