@@ -1,4 +1,4 @@
-# Dio-Pseudo_Ementos_e_Pseudo_Classes
+# Dio-Pseudo_Ementos_e_Pseudo_Classes:
 
 <div style="background-color: yellow; border: solid 2px; padding-left: 10px;">Pseudo Elementos:</div>
 
