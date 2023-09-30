@@ -1,0 +1,28 @@
+Pseudo Elementos:
+
+Com os pseudo elementos, podemos usar elementos extras, sem a necessidade de declaração no HTML. 
+
+Identificamos por ::palavra-chave
+
+
+**a) ::firt-letter (seleciona a primeira letra da primeira linha
+
+color, background, margin, padding, border, font e propriedades de texto
+
+b) ::first-line (seleciona a primeira linha de texto)
+
+color, background, font e propriedades de texto.
+
+c) ::backdrop (estiliza o plano de fundo em modo tela cheia)
+
+tag video + controls, tag sorurse
+
+**d) ::marker (estiliza os topicos ou elementos de uma lista (li) ou a flecha de um elemento summary
+
+color, content, while-space, font, animation, transition
+
+e) ::placeholder (estiliza o placeholder)
+
+color, font, background, text
+
+f) ::selection (
